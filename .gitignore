@@ -11,7 +11,7 @@ install-sh
 libmodplug.pc
 libtool
 ltmain.sh
-Makefile
+#Makefile
 Makefile.in
 missing
 src/.deps
